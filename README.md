@@ -30,30 +30,31 @@ finance-tracker/
 
 1. Clone the repo:
 
-```bash
+```
 git clone https://github.com/zacgee/simple-finance-tracker.git
+```
 
-
-## Install dependencies:
-
+2. Install dependencies:
+```
 cd backend
 npm install
-
+```
+```
 cd ../frontend
 npm install
+```
 
-
-## Start the backend:
-
+3. Start the backend:
+```
 cd backend
 npm run dev
+```
 
-
-## Start the frontend:
-
+4. Start the frontend:
+```
 cd frontend
 npm run dev
-
+```
 
 The app will run locally (frontend typically on http://localhost:5173/).
 
