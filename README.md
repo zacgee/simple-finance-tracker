@@ -68,7 +68,7 @@ CRUD operations and HTTP methods (GET, POST, PUT, DELETE)
 
 Full-stack application structure and project organization
 
-Future Improvements
+## Future Improvements
 
 Add authentication (login / register)
 
